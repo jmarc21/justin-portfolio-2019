@@ -9,7 +9,7 @@ class Home extends Component {
       <div>
         <div className="home-landing-screen">
           <div className="home-landing-stars">
-            <div className="home-name-landing">Justin DeMarco</div>
+            <div className="home-name-landing">Justin DeMarco!</div>
           </div>
         </div>
       </div>
